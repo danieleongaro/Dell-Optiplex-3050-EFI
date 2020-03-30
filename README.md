@@ -1,4 +1,4 @@
-# Dell-Optiplex-3050-EFI
+# Dell Optiplex 3050 EFI
 Dell Optiplex 3050 EFI folder for vanilla hackintosh with clover.
 
 This works with macOS Catalina 10.15 on Dell Optiplex 3050 micro (i5-7500T).

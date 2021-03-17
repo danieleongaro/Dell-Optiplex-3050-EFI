@@ -8,10 +8,11 @@ This works with macOS Catalina 10.15 on Dell Optiplex 3050 micro (i5-7500T).
 * Hdmi (with audio)
 * All USBs
 * Ethernet
+* Bluetooth
+* Wifi. I have not enabled it because I don't need it but you can enable it using this https://openintelwireless.github.io (It's the same project I used to enable the bluetooth)
 
 **Not working:**
 * Wake from sleep. This is a common problem with intel HD630, I haven't found a solution yet other than disabling sleep from macOS system settings.
-* Wifi/Bluetooth. You could swap the original incompatible mini pcie card with a compatible one but i haven't tried although it should work.
 
 **Not tested:**
 * Displayport. You might get the pink screen problem but it's an easy fix, google it.
